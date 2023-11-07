@@ -17,4 +17,5 @@ Change the initial position, we can find that the vehicle can go back to the ref
 ![](https://github.com/fuingcrazy/Trail-tracking-MPC-APF/blob/master/Pictures/Back%20to%20trail.png)
 
 As an innovative application of artificial potential field(AFP), the approch combined the AFP and MPC to get a high quality of obstacle avoidance:
+
 ![](https://github.com/fuingcrazy/Trail-tracking-MPC-APF/blob/master/Pictures/Avoidance.png)
