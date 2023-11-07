@@ -13,6 +13,7 @@ The program also records the change of yawing angle of the whole process like th
 
 The facing angle changes from 30 to 90 degrees.
 Change the initial position, we can find that the vehicle can go back to the reference trail without problem:
+
 ![](https://github.com/fuingcrazy/Trail-tracking-MPC-APF/blob/master/Pictures/Back%20to%20trail.png)
 
 As an innovative application of artificial potential field(AFP), the approch combined the AFP and MPC to get a high quality of obstacle avoidance:
